@@ -1,0 +1,5 @@
+/Users/deekshabhat/Projects/CSE6331_Photo_Application/CSE6331_Photo_Application/bin/CSE6331_Photo_Application.dll
+/Users/deekshabhat/Projects/CSE6331_Photo_Application/CSE6331_Photo_Application/bin/CSE6331_Photo_Application.pdb
+/Users/deekshabhat/Projects/CSE6331_Photo_Application/CSE6331_Photo_Application/obj/Debug/CSE6331_Photo_Application.csproj.CoreCompileInputs.cache
+/Users/deekshabhat/Projects/CSE6331_Photo_Application/CSE6331_Photo_Application/obj/Debug/CSE6331_Photo_Application.dll
+/Users/deekshabhat/Projects/CSE6331_Photo_Application/CSE6331_Photo_Application/obj/Debug/CSE6331_Photo_Application.pdb
